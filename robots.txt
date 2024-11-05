@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://apudeuga.github.io/Bmh/sitemap_index.txt
+Sitemap: https://apudeuga.github.io/Zlw/sitemap_index.txt
+Sitemap: https://apudeuga.github.io/bHP/sitemap_index.txt
+Sitemap: https://apudeuga.github.io/eMf/sitemap_index.txt
